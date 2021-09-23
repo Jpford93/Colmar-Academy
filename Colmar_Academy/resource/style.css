@@ -1,8 +1,9 @@
 #header {
-    display: inline-block;
+    display: flex;
+    position: fixed;
+    width: 100%;
 }
 
-.desktop-menu ul {
-    list-style: none;
+nav li {
     display: flex;
 }
