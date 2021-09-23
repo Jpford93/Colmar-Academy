@@ -2,7 +2,7 @@
     display: inline-block;
 }
 
-.desktop-menu ul {
+nav li {
     list-style: none;
     display: flex;
 }
